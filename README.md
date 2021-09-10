@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krlosIQB
 - 👀 I’m interested in web and mobile apps
-- 💞️ I’m looking to collaborate on React, PHP, C# or Java Projects
+- 💞️ I’m looking to collaborate on C#, PHP, Java, Angualar or React Projects
 - 📫 You can reach me at carlosiquiroz@hotmail.com
 
 <!---
